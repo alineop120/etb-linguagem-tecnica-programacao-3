@@ -25,7 +25,7 @@ Este repositório contém links para os repositórios individuais das aulas e pr
     - **Descrição**: Revisão prática de HTML e CSS, com foco no desenvolvimento de páginas web responsivas.
     - **Data de entrega**: 27/02/2025
 
-* **[Projeto A2 - Sistema Cadastro de Pessoas](https://github.com/alineop120/projeto-a2-sistema-cadastro-de-pessoas)**
+* **[Projeto A2 - Sistema Cadastro de Pessoas](https://github.com/alineop120/projeto-sistema-cadastro-de-pessoas)**
    - **Descrição**: Desenvolvimento de um sistema completo para cadastro de pessoas, utilizando conceitos das aulas anteriores.
    - **Data de entrega**: Não definida.
 
