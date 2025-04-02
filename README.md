@@ -1,8 +1,8 @@
-# ETB - Linguagem Técnica de Programação 3
+# ETB - Linguagem Técnica de Programação 3 🖥️📚
 
 Este repositório contém links para os repositórios individuais das aulas e projetos realizados na disciplina **Linguagem Técnica de Programação 3**. Abaixo estão as aulas, atividades, bem como o projeto da A2, com descrições detalhadas e links para os respectivos repositórios.
 
-## Conteúdo das Aulas
+## Conteúdo das Aulas 📘
 
 * **[Aula 2 - JSP](https://github.com/alineop120/aula-jsp)**
    - **Descrição**: Aula sobre JSP (Java Server Pages) e seu uso no desenvolvimento de páginas dinâmicas.
@@ -19,7 +19,7 @@ Este repositório contém links para os repositórios individuais das aulas e pr
 
 ---
 
-## Projetos
+## Projetos 🛠️
 
 * **[Projeto - Revisão HTML e CSS](https://github.com/alineop120/projeto-recipe-main)**
     - **Descrição**: Revisão prática de HTML e CSS, com foco no desenvolvimento de páginas web responsivas.
@@ -31,7 +31,7 @@ Este repositório contém links para os repositórios individuais das aulas e pr
 
 ---
 
-## Sites recomendados pelo professor
+## Sites recomendados pelo professor 🌐
 
 Aqui estão alguns sites recomendados para aprendizado adicional e bibliotecas úteis mencionadas em aula:
 
@@ -41,4 +41,3 @@ Aqui estão alguns sites recomendados para aprendizado adicional e bibliotecas �
   - **Biblioteca recomendada**: [MySQL](https://mvnrepository.com/artifact/mysql/mysql-connector-java) - Conector JDBC para MySQL.
 
 ---
-
